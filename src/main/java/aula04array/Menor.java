@@ -1,3 +1,4 @@
+
 /*
 Criar um array de 4 elementos Integer, atribuindo um valor diferente a cada elemento.
 Escrever um método que encontre o menor valor dessa array.
