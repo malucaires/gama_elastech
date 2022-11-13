@@ -1,3 +1,5 @@
+package aula02estruturacontrole;
+
 import java.util.Scanner;
 
 public class Media {
