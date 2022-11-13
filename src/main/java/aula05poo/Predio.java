@@ -1,4 +1,4 @@
-/*
+package aula05poo;/*
 Crie uma classe chamada Predio, contendo os seguintes atributos: endereco, cidade, estado, numAptos.
 Crie apenas o construtor padrão. Crie métodos get e set para todos os atributos.
 No método setNumAptos, verifique se o número de apartamentos passados é maior que 0.
